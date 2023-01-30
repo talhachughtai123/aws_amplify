@@ -1,5 +1,5 @@
 import React from "react";
-import Typical from "react-typical";
+// import Typical from "react-typical";
 import "./Profile.css";
 
 export default function Profile() {
@@ -33,7 +33,7 @@ export default function Profile() {
             </span>
           </div>
           <div className="profile-details-role">
-            <span className="primary-text">
+            {/* <span className="primary-text">
               {" "}
               <h1>
                 <Typical
@@ -50,7 +50,7 @@ export default function Profile() {
                   ]}
                 />
               </h1>
-            </span>
+            </span> */}
             <span className="profile-role-tagline">
               Knack of building applications with front and back end operations.
             </span>

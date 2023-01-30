@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Typical from "react-typical";
+// import Typical from "react-typical";
 import axios from "axios";
 import { toast } from "react-toastify";
 import imgBack from "../../../src/images/mailz.jpeg";
@@ -68,7 +68,7 @@ export default function ContactMe(props) {
       <div className="central-form">
         <div className="col">
           <h2 className="title">
-            <Typical loop={Infinity} steps={["Get In Touch 📧", 1000]} />
+            {/* <Typical loop={Infinity} steps={["Get In Touch 📧", 1000]} /> */}
           </h2>{" "}
           <a href="https://web.facebook.com/?_rdc=1&_rdr">
             <i className="fa fa-facebook-square" />
