@@ -19,10 +19,10 @@ import "./AboutMe.css";
       "I am a web enthusiast and researcher, a quick learner, and keen to explore the realm of web engineering. To work and grow professionally as a web developer in a stable organization where I could contribute my skills. My endeavor and dedication in the job will help me achieve the company's goals and objectives.",
     highlights: {
       bullets: [
-        "Full Stack web and mobile development",
+        "Full Stack web development",
         "Interactive Front End as per the design",
-        "React and VueJs",
-        "Laravel And RoR for Backend",
+        "React",
+        "Laravel for Backend",
         "Building REST API",
         "Managing database",
       ],
@@ -56,7 +56,7 @@ import "./AboutMe.css";
             </div>
             <div className="about-me-options">
               <button className="btn primary-btn"> Hire Me </button>
-              <a href="ehizcv.pdf" download="Ehiedu Ehizcv.pdf">
+              <a href="Talha-Resume.pdf" download="Talha-Resume.pdf">
                 <button className="btn highlighted-btn">Get Resume</button>
               </a>
             </div>
